@@ -3,4 +3,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name ="action_refresh" translateable="false">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name = "pref_location_label" >Location</string>
+    <string name ="pref_location_key" translateable="false">locations</string>
+    <string name = "pref_location_default" translateable = "false">65802</string>
+    <string name = "pref_units_label">Temperature Units</string>
+    <string name = "pref_units_label_metric">Metric</string>
+    <string name = "pref_units_label_imperial">Imperial</string>
+    <string name = "pref_units_key" translateable = "false">units</string>
+    <string name = "pref_units_metric" translateable = "false">metric</string>
+    <string name = "pref_units_imperial" translateable = "false">imperial</string>
 </resources>
